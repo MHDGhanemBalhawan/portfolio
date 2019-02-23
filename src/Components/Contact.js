@@ -10,12 +10,12 @@ export default class Contact extends React.Component {
               <li>
                 <i className="fa fa-map-marker" />
                 <h6>Address</h6>
-                <p>SE7 8AY, Charlton, London, UK</p>
+                <p>E3 4EL, London, UK</p>
               </li>
               <li>
                 <i className="fa fa-envelope-o" />
                 <h6>Email</h6>
-                <p>info@modelledsoft.com</p>
+                <p>mhdghanembalhawan@hotmail.com</p>
               </li>
               <li>
                 <i className="fa fa-mobile" />

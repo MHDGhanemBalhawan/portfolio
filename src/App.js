@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import ReactDOM from "react-dom";
 import Navigation from "./Components/Navigation.js";
 import Intro from "./Components/Intro.js";
 import About from "./Components/About.js";
-import Services from "./Components/Services.js";
+import Skills from "./Components/Skills.js";
 import "./Style/Style.css";
 import { library } from "@fortawesome/fontawesome-svg-core";
 
@@ -22,10 +21,10 @@ class App extends Component {
         <Navigation />
         <Intro />
         <About />
+        <Skills />
         <div className="clear-fix" />
-        <Services />
+
         <RecentProjects />
-        <Contact />
         <ContactForm />
         <Footer />
       </div>
